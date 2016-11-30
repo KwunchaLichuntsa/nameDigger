@@ -1,2 +1,2 @@
 # nameDigger
-Bash script to process a (domain)name and retreive information about it
+Bash script to process a (domain)name and retreive information about it.
